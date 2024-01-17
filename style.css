@@ -1,6 +1,6 @@
 .jumbotron {
     padding-top: 2rem;
-    background-image: url(IMG/moscow.jpg);
+    background-image: url(./IMG/moscow.jpg);
     background-size: cover;
 }
 
