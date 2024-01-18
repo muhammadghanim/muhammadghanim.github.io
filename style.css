@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 2rem;
+    background-image: url(IMG/moscow.jpg);
+    background-size: cover;
+}
+
+body {
+    background-color:black;
+}
+
+#projects {
+    background-color: darkred;
+}
+
+.carousel-inner {
+    height: 500px;
+}
+
+#navbar {
+    background-color: black
+}
